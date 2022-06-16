@@ -1,0 +1,40 @@
+body{
+    background: #573671;
+}
+
+
+input{
+	color: #fff;
+    background-color: white;
+    border:none;
+    border-bottom:1px solid black;
+
+}
+label{
+    color: white; 
+    margin-bottom: 5px;
+}
+.sign{
+    background-color: white;
+}
+.text-derecho{
+    text-align: center;
+    margin-top: 100px;
+    text-shadow: 2px 2px 2px #828282;
+}
+.colorbtn{
+    background-color: #573671;
+    color: #fff;
+}
+.estilo-imagen{
+
+    background-color:#ec75ac;
+    background-image: url(/image/imagenFondo.jpg);
+    background-repeat: no-repeat;
+	background-size:cover;
+	background-position: center;
+    /* opacity: 0.7; */
+
+	/* height: auto;
+	width: auto; */
+}
